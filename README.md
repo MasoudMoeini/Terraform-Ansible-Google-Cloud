@@ -22,6 +22,10 @@ terraform apply
 ```
 terraform destroy
 ```
+```
+rm ~/.ssh/ansbile*
+```
+Delete SSH public key from GCP project
 
 
 
