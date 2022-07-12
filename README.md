@@ -19,6 +19,7 @@ terraform plan
 ```
 terraform apply 
 ```
+To remove resources:
 ```
 terraform destroy
 ```
