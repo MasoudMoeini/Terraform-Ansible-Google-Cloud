@@ -24,7 +24,6 @@ Web-server-URL(nginx_ip:80):<br/>
 ```
 http://IP_ADDRESS:80
 ```
-```
 At any time to acces ip address by:
 ```
 terraform output
