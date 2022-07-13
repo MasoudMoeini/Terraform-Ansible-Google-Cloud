@@ -28,6 +28,7 @@ At any time to acces ip address by:
 ```
 terraform output
 ```
+You should see something similar in browser:<br/>
 To remove resources:
 ```
 terraform destroy
