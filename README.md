@@ -29,6 +29,8 @@ At any time to acces ip address by:
 terraform output
 ```
 You should see something similar in browser:<br/>
+<img width="901" alt="Screenshot 2022-07-13 at 11 01 38" src="https://user-images.githubusercontent.com/43514418/178695362-f0f983fd-5d24-416d-bdb3-9feba0744502.png"><br/>
+
 To remove resources:
 ```
 terraform destroy
