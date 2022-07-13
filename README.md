@@ -19,11 +19,11 @@ terraform plan
 ```
 terraform apply 
 ```
-Terraform prints the VM's external IP address and port 80 has been set in firewall configuration to access vm
+Terraform prints the VM's external IP address and port 80 has been set in firewall configuration to access vm<br/>
+Web-server-URL(nginx_ip:80):<br/>
+http://IP_ADDRESS:80
 ```
-Web-server-URL(nginx_ip) = "http://IP_ADDRESS:80"
-```
-At any time to acces ip address:
+At any time to acces ip address by:
 ```
 terraform output
 ```
