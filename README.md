@@ -19,6 +19,14 @@ terraform plan
 ```
 terraform apply 
 ```
+Terraform prints the VM's external IP address and port 80 has been set in firewall configuration to access vm
+```
+Web-server-URL(nginx_ip) = "http://IP_ADDRESS:80"
+```
+At any time to acces ip address:
+```
+terraform output
+```
 To remove resources:
 ```
 terraform destroy
